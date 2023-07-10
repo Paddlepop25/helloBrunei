@@ -1,0 +1,19 @@
+{
+  "name": "@paddlepop25/hellobrunei",
+  "version": "1.0.0",
+  "description": "gifts u a greeting from Brunei",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Paddlepop25/helloBrunei.git"
+  },
+  "author": "Linda Lee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Paddlepop25/helloBrunei/issues"
+  },
+  "homepage": "https://github.com/Paddlepop25/helloBrunei#readme"
+}
